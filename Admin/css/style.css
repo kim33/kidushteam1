@@ -1275,6 +1275,10 @@ a.top-sign {
   margin-left: 100px;
 }
 
+.panel-left {
+  margin-left: 10px;
+}
+
 .panel-top {
   margin-top: 50px;
 }
